@@ -1,5 +1,5 @@
 ### [Asian-style braised beef short ribs with Chinese broccoli](Asian-style_braised_beef_short_ribs_with_Chinese_broccoli.md)
-![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/thumbs/Asian-style_braised_beef_short_ribs_with_Chinese_broccoli.jpg)
+[![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/thumbs/Asian-style_braised_beef_short_ribs_with_Chinese_broccoli.jpg)](Asian-style_braised_beef_short_ribs_with_Chinese_broccoli.md)
 ### [Balti mattar paneer](Balti_mattar_paneer.md)
 ![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/thumbs/Balti_mattar_paneer.jpg)
 ### [Beef stroganoff with rice](Beef_stroganoff_with_rice.md)
